@@ -21,7 +21,6 @@ h1, h3, h4 {
 }
 
 img {
-    border: 2px solid blue;
     height: 100%;
     margin: auto;
     
@@ -29,10 +28,9 @@ img {
 
 .image {
     display: flex;
-    border: 2px solid green;
     height: 300px;
     width:  600px;
-    margin: auto;
+    margin: auto;git
     box-sizing: border-box;
 }
 

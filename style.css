@@ -20,6 +20,22 @@ h1, h3, h4 {
 
 }
 
+img {
+    border: 2px solid blue;
+    height: 100%;
+    margin: auto;
+    
+}
+
+.image {
+    display: flex;
+    border: 2px solid green;
+    height: 300px;
+    width:  600px;
+    margin: auto;
+    box-sizing: border-box;
+}
+
 a {
     color: white;
 }

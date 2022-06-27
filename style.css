@@ -1,0 +1,25 @@
+
+body {
+    background-image: url(./images/paper.jpeg);
+    background-size: 100% 100%;
+    font-family: sans-serif;
+}
+
+h1, h3, h4 {
+    background-color: #454545;
+    color: white;
+    text-align: center;
+    align-items: center;;
+    font-family: Helvetica,  Arial, sans-serif;
+}
+
+.list {
+    background-color: #454545;
+    color: white;
+    text-align: center;
+
+}
+
+a {
+    color: white;
+}
